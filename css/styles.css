@@ -1,18 +1,27 @@
-.puppieshidden {
-  display: none;
+.puppies {
+    backgound-color: white;
+    /* white background added because blue background was persistent even after redefined without it */
 }
-.puppiesshowing {
+
+/* .puppieshidden {
+  display: none;
 
 }
-.kittens {
+.puppiesshowing {
+}
+.kittenshidden{
   display: none;
 }
-.pandas {
+.pandashidden {
   display: none;
 }
-.seals {
+.sealshidden {
   display: none;
 }
-.walruses {
+.walruseshidden {
   display: none;
+} */
+.hideAll {
+  display: none;
+  
 }
