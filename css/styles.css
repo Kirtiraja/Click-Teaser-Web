@@ -3,25 +3,23 @@
     /* white background added because blue background was persistent even after redefined without it */
 }
 
-/* .puppieshidden {
+
+.puppiesshowing {
+  display: none;
+}
+.kittensshowing{
+  display: none;
+}
+.pandasshowing {
+  display: none;
+}
+.sealsshowing {
+  display: none;
+}
+.walrusesshowing {
+  display: none;
+}
+/* .hideAll {
   display: none;
 
-}
-.puppiesshowing {
-}
-.kittenshidden{
-  display: none;
-}
-.pandashidden {
-  display: none;
-}
-.sealshidden {
-  display: none;
-}
-.walruseshidden {
-  display: none;
 } */
-.hideAll {
-  display: none;
-  
-}
